@@ -1,0 +1,22 @@
+.card {
+  width: 30rem;
+  height: 40rem;
+  margin: 2rem;
+  background-color: #dde1e7;
+  border-radius: 25px;
+  box-shadow: -3px -3px 5px #ffffff90, 3px 3px 15px #00000030;
+}
+
+.image {
+  object-fit: cover;
+  border-radius: 25px 25px 0 0;
+}
+
+.description {
+  padding: 0 2rem;
+}
+
+.container {
+  margin: 5rem;
+  display: flex;
+}
